@@ -1,0 +1,7 @@
+# task 1
+
+porsor = int(input("Enter porsor: "))
+korsor = porsor - 543
+rorsor = porsor - 2324
+print("ค.ศ. = ", korsor)
+print("ร.ศ. = {}".format(rorsor))
